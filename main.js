@@ -1,6 +1,7 @@
 let container = document.getElementById("container")
 
 container.addEventListener( "mouseover", event => {
+    alert("teste")
     container.style.width = "800"
     container.style.height = "600"
 })
