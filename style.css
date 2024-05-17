@@ -1,6 +1,9 @@
 main{
     text-align: center;
     background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
